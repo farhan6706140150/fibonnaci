@@ -1,5 +1,8 @@
 package fibonacci;
 import java.util.Scanner;
+//INI DIEDIT JADI REVERSE FIBONACCI//
+//INI DIEDIT JADI REVERSE FIBONACCI//
+//INI DIEDIT JADI REVERSE FIBONACCI//
 
 public class Fibonacci {
 
@@ -37,3 +40,4 @@ public class Fibonacci {
     }     
 
 }
+//INI DIEDIT JADI REVERSE FIBONACCI//
