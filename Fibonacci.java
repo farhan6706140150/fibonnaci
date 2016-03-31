@@ -33,7 +33,6 @@ public class Fibonacci {
             fibo2 = fibonacci;
  
         }
-        return fibonacci;
     }     
-
+//return dihilangkan
 }
