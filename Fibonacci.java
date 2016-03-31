@@ -21,7 +21,7 @@ public class Fibonacci {
  
         return fibRec(number-1) + fibRec(number -2);
     }
- 
+
     public static int fibonacciLoop(int number){
         if(number == 1 || number == 2){
             return 1;
@@ -37,3 +37,4 @@ public class Fibonacci {
     }     
 
 }
+//ini sudah diedit!!!!!!!!!!!!!!!!!
